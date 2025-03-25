@@ -25,3 +25,5 @@ ros2 topic echo /mirobot_action
 ! the homing with the joystick maybe have some unknown action and maybe break the robot and i  know nothing with it (:<)
 
 this project are used in my project for SH_CXDS
+
+thanks for https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython/

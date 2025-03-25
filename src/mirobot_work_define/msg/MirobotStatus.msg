@@ -1,0 +1,17 @@
+string state
+float64 angle_a
+float64 angle_b
+float64 angle_c
+float64 angle_d
+float64 angle_x
+float64 angle_y
+float64 angle_z
+float64 coordinate_x
+float64 coordinate_y
+float64 coordinate_z
+float64 coordinate_rx
+float64 coordinate_ry
+float64 coordinate_rz
+int32 pump
+int32 valve
+int32 mooe

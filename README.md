@@ -2,6 +2,8 @@
 
 ## environment
 
+Certainly,you should install ros2 environment first.
+
 ```bash
 cd ~/data/robot/ros2ws &&  pyenv local 3.10.12 && source /opt/ros/humble/setup.bash && source ./install/setup.bash
 ```

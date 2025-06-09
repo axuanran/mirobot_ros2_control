@@ -1,4 +1,4 @@
-# TODO
+# Wlkata Mirobot controller for ros2
 
 ## environment
 
@@ -22,8 +22,9 @@ ros2 topic echo /mirobot_action
 ```
 
 ! you must to edit the configuration for yourself
-! the homing with the joystick maybe have some unknown action and maybe break the robot and i  know nothing with it (:<)
-
-this project are used in my project for SH_CXDS
+! Homing with the joystick maybe have some unexpected action and it maybe break the robot and i don't know why (:<)
+if you encounter this problem, maybe you can try lifting hardware restrictions? I don't know how to fix it with a better way, use hand make my robot don't have a flexible  action as before )
 
 thanks for https://github.com/wlkata/WLKATA-Python-SDK-wlkatapython/
+
+(dev is already completed)
